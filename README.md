@@ -1,0 +1,1 @@
+This is a Netflix Clone Project build with help of HTML, Tailwind-CSS, and JavaScript.
